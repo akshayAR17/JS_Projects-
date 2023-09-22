@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do List App</title>
+    <link rel="stylesheet" href="to-do.css">
+</head>
+<body>
+    
+    <!-- main background -->
+    <div class="container">
+        <!-- adds to-do list name followed by an image -->
+        <div class="todo-app">
+            <h2>To-Do List</h2> <img src="todo.webp" width="28" height="30" >
+            <!-- adds textbox along with the button -->
+            <div class="row">
+                <input type="text" id="textbox" placeholder="Add your list">
+                <button onclick="addTask()">Add</button>
+                <ul id="list-container">
+                <!--    <li class="checked">Task 1</li>
+                    <li>Task 2</li>
+                    <li>Task 3</li> -->
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <script src="to-do.js"></script>
+</body>
+</html>
