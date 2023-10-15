@@ -1,1 +1,1 @@
-![calendar](https://github.com/akshayAR17/JS_Projects-/assets/107508875/969cf9de-0ba9-45ac-b6b8-209ea9a6a6c3)
+![c1](https://github.com/akshayAR17/JS_Projects-/assets/107508875/0203dbdc-2940-4e76-ab5e-3019706cf7a1)
